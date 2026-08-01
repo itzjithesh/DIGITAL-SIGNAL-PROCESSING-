@@ -1,1 +1,48 @@
+% ============================================
+% EX NO:1 Butterworth IIR Low-Pass Filter
+% Design and Analysis using MATLAB
+% ============================================
 
+clc; clear; close all;
+
+% Given Specifications
+Rp = 1;        % Passband Ripple in dB
+Rs = 20;       % Stopband Attenuation in dB
+Fp = 1000;     % Passband Frequency in Hz
+Fs = 3000;     % Stopband Frequency in Hz
+Fsampling = 8000; % Sampling Frequency in Hz
+
+% Step 1: Normalize frequencies (relative to Nyquist frequency)
+Wp = Fp / (Fsampling/2);   % Normalized Passband frequency
+Ws = Fs / (Fsampling/2);   % Normalized Stopband frequency
+
+% Step 2: Find minimum filter order (N) and cutoff frequency (Wn)
+[N, Wn] = buttord(Wp, Ws, Rp, Rs);
+
+% Step 3: Design Butterworth filter coefficients
+[b, a] = butter(N, Wn);
+
+% Step 4: Frequency response (Magnitude & Phase)
+figure;
+freqz(b, a);
+title('Frequency Response of Butterworth IIR LPF');
+
+% Step 5: Impulse response
+figure;
+[h, n] = impz(b, a, 50);
+stem(n, h);
+title('Impulse Response');
+
+% Step 6: Step response
+figure;
+stepz(b, a);
+title('Step Response');
+
+% Step 7: Pole-Zero plot
+figure;
+zplane(b, a);
+title('Pole-Zero Plot');
+
+% Step 8: Display results
+fprintf('Minimum Filter Order (N) = %d\n', N);
+fprintf('Cutoff Frequency (Wn) = %.4f\n', Wn);
