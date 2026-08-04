@@ -1,6 +1,7 @@
 # OUTPUT
 
-# EXP 1.1
+# EXP 1.1. Design and Analysis of a Butterworth IIR Low-Pass Filter Using
+
 
 # OBJECTIVE 1
 <img width="697" height="541" alt="image" src="https://github.com/user-attachments/assets/e3d4147c-818d-4510-aa9b-b2158cd71a14" />
@@ -14,7 +15,8 @@
 # OBJECTIVE 4
 <img width="702" height="542" alt="image" src="https://github.com/user-attachments/assets/d0fa292a-85aa-43cf-a9af-c5b833acb67c" />
 
-# EXP 1.2
+
+# EXP 1.2. Design and Analysis of a Butterworth IIR High-Pass Filter Using
 
 # OBJECTIVE 1
 <img width="692" height="540" alt="image" src="https://github.com/user-attachments/assets/d05dae00-d720-4893-9b81-a9963a54bcf1" />
