@@ -16,3 +16,15 @@
 
 # objective 1
 <img width="912" height="546" alt="image" src="https://github.com/user-attachments/assets/c1748680-2a4c-4118-9038-9cb3b323a8f9" />
+
+# OBJECTIVE 2
+
+
+
+# 4.3. Design and Analysis of an FIR Low-Pass Filter Using the Hanning Window
+
+# OBJECTIVE 1
+<img width="921" height="536" alt="image" src="https://github.com/user-attachments/assets/ab8e0e1f-bea2-4c2e-a57d-a771f30862ed" />
+
+# OBJECTIVE 2
+<img width="414" height="727" alt="image" src="https://github.com/user-attachments/assets/9cff6099-1c8d-4d50-b2df-9aac135c7143" />
