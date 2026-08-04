@@ -15,7 +15,7 @@
 # OBJECTIVE 5
 <img width="355" height="80" alt="image" src="https://github.com/user-attachments/assets/82280d4f-b876-4f9b-9b3c-26003587a194" />
 
-# ===============================================================================================================================
+
 
 # EXP 2.2. Design and Performance Evaluation of a Chebyshev Type-I IIR High-Pass
 
