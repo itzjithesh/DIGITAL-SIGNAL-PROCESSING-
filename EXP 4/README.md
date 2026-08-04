@@ -3,23 +3,20 @@
 #  4.1 Design and Analysis of an FIR Low-Pass Filter Using the Rectangular Window
 
 # OBJECTIVE 1
-<img width="922" height="547" alt="image" src="https://github.com/user-attachments/assets/7bd699d9-2fe7-48f7-8751-f15036c817b0" />
+
+<img width="327" height="721" alt="image" src="https://github.com/user-attachments/assets/0e345aaa-5bab-4f02-aade-13d0ae0498ac" />
 
 # OBJECTIVE 2
-<img width="914" height="546" alt="image" src="https://github.com/user-attachments/assets/ea7390ee-4749-44b0-b3a0-db32be0f708a" />
-
-# OBJECTIVE 3
-<img width="919" height="543" alt="image" src="https://github.com/user-attachments/assets/206c0c82-9214-41f2-a4b3-aee0cc2b3717" />
+<img width="922" height="547" alt="image" src="https://github.com/user-attachments/assets/7bd699d9-2fe7-48f7-8751-f15036c817b0" />
 
 
 # 4.2. Design and Analysis of an FIR Low-Pass Filter Using the Hamming Window
 
-# objective 1
+# OBJECTIVE 1
+<img width="292" height="720" alt="image" src="https://github.com/user-attachments/assets/4c0588bd-ac22-46c0-ac2c-d67104ba417d" />
+
+# objective 2
 <img width="912" height="546" alt="image" src="https://github.com/user-attachments/assets/c1748680-2a4c-4118-9038-9cb3b323a8f9" />
-
-# OBJECTIVE 2
-
-
 
 # 4.3. Design and Analysis of an FIR Low-Pass Filter Using the Hanning Window
 
